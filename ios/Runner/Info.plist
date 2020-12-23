@@ -23,7 +23,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MGLMapboxAccessToken</key>
-	<string>pk.eyJ1IjoiYWxhbmNhc2FzIiwiYSI6ImNrajBjZzl6ajJrM3ozMm1tYzNqNXNpZnAifQ.Jl9A4-zAlkKPaE-0mmxaXQ</string>
+	<string>YOUR_API_KEY</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Necesitamos la localizacion para usar los mapas</string>
 	<key>UILaunchStoryboardName</key>

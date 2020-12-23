@@ -127,7 +127,7 @@ class _FullScreenMapState extends State<FullScreenMap> {
   MapboxMap _buildMapboxMap() {
     return MapboxMap(
       styleString: selectedStyle,
-      accessToken: 'pk.eyJ1IjoiYWxhbmNhc2FzIiwiYSI6ImNrajBjZzl6ajJrM3ozMm1tYzNqNXNpZnAifQ.Jl9A4-zAlkKPaE-0mmxaXQ',
+      accessToken: 'YOUR_API_KEY',
       onMapCreated: _onMapCreated,
       initialCameraPosition: CameraPosition(
           target: centerMap,
